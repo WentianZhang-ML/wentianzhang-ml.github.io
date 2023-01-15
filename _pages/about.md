@@ -34,10 +34,10 @@ My research interest includes neural machine translation and computer vision. I 
 [Effective Presentation Attack Detection Driven by Face Related Task](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_24)
   
 
-**Wentian Zhang**, Haozhe Liu, Feng Liu, Raghavendra Ramachandra , Christoph Busch 
+**Wentian Zhang**\*, Haozhe Liu\*, Feng Liu, Raghavendra Ramachandra , Christoph Busch (**\* Equal Contribution**)
 
 [**Code**](https://github.com/WentianZhang-ML/FRT-PAD)
-- Unlike face PAD task, other face related tasks trained by huge amount of real faces (e.g. face, expression recognition, face detection, face locolisation, and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to trade position of PAD and face related work in a face system and apply the free acquired prior knowledge from face related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. 
+- Unlike face PAD task, other face related tasks trained by huge amount of real faces (e.g. face, expression recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to trade position of PAD and face related work in a face system and apply the free acquired prior knowledge from face related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. 
 </div>
 </div>
 
