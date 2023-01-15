@@ -27,7 +27,7 @@ author:
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=OnflwHYAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=OnflwHYAAAAJ"
   email            : "zhangwentianml@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github WentianZhang-ML"
+  github           : "WentianZhang-ML"
   google_plus      :
   keybase          :
   instagram        :
