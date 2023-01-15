@@ -64,7 +64,15 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 </div>
 </div>
 
-<!-- ### Selected Publication List-->
+### Selected Publication List
+
+- **Zhang, W.**, Liu, H., Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. European Conference on Computer Vision (ECCV). 
+- **Zhang, W.**, Liu, H., Liu, F., & Ramachandra, R. (2022). A Uniform Representation Learning Method for OCT-based Fingerprint Presentation Attack Detection and Reconstruction. arXiv preprint arXiv:2209.12208.
+- **Zhang, W.**, Sun, X., Li, Y., Liu, H., He, N., Liu, F., & Zheng, Y. (2022). A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 
+- Liu, H., **Zhang, W.**, Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., & Zheng, Y. (2022). Decoupled Mixup for Out-of-Distribution Visual Recognition. European Conference on Computer Vision Workshop (ECCVW)
+- Liu, F., Zeng, W., **Zhang, W.**, Wang, L., Cheng, J., & Lai, Z. (2022). Multi-layered Minutiae Extraction based on Fusion-Attention for OCT Fingerprints. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
+- Liu, F., Liu, G., **Zhang, W.**, Wang, L., & Shen, L. (2022). A Novel High-Resolution Fingerprint Representation Method. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
+- Liu, F., Liu, H., **Zhang, W.**, Liu, G., & Shen, L. (2021). One-class fingerprint presentation attack detection using auto-encoder network. IEEE Transactions on Image Processing.
 
 # 🎖 Honors and Awards
 
@@ -74,14 +82,6 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 - *2018* National University Big Data Application Innovation Competition in Northwest, First Place
 
 # 📖 Research Experience
-
-- **Zhang, W.**, Liu, H., Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. European Conference on Computer Vision (ECCV). 
-- **Zhang, W.**, Liu, H., Liu, F., & Ramachandra, R. (2022). A Uniform Representation Learning Method for OCT-based Fingerprint Presentation Attack Detection and Reconstruction. arXiv preprint arXiv:2209.12208.
-- **Zhang, W.**, Sun, X., Li, Y., Liu, H., He, N., Liu, F., & Zheng, Y. (2022). A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 
-- Liu, H., **Zhang, W.**, Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., & Zheng, Y. (2022). Decoupled Mixup for Out-of-Distribution Visual Recognition. European Conference on Computer Vision Workshop (ECCVW)
-- Liu, F., Zeng, W., **Zhang, W.**, Wang, L., Cheng, J., & Lai, Z. (2022). Multi-layered Minutiae Extraction based on Fusion-Attention for OCT Fingerprints. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
-- Liu, F., Liu, G., **Zhang, W.**, Wang, L., & Shen, L. (2022). A Novel High-Resolution Fingerprint Representation Method. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
-- Liu, F., Liu, H., **Zhang, W.**, Liu, G., & Shen, L. (2021). One-class fingerprint presentation attack detection using auto-encoder network. IEEE Transactions on Image Processing.
 
 ### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Xu Sun](https://scholar.google.com/citations?user=c1PjjLMAAAAJ) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ) 
