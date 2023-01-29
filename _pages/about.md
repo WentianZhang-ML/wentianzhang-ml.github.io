@@ -101,7 +101,7 @@ Visiting student supervised by  [Prof. David Zhang](https://scholar.google.com/c
 - Participated to collect a multi-modal biometric dataset, which contains face, fingerprint and palmprint samples from 10k subjects.
 - Proposed to apply a 3D convolution network to extract palmprint features which can be further encoded for recognition.
 
-### Computer Vision Insitute (Shenzhen University)
+### Computer Vision Institute (Shenzhen University)
 M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ)
 
 - Proposed a uniform representation learning method for OCT-based Fingerprint anti-spoofing and Recognition.
