@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am studying for my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I am an intern at Jarvis Lab, Tencent. My major research interests include Unsupervised Learning, Anomaly Detection and Pattern Recognition. My resume can be found [here](./WentianZhang_CV.pdf).
-
+I am studying for my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I am an intern at Jarvis Lab, Tencent. My major research interests include Unsupervised Learning, Anomaly Detection and Pattern Recognition. 
 
 # 🔥 News
 - *2022.09*: &nbsp; I am awarded the China National Scholarship.
@@ -70,6 +69,9 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 - **Zhang, W.**, Liu, H., Liu, F., & Ramachandra, R. (2022). A Uniform Representation Learning Method for OCT-based Fingerprint Presentation Attack Detection and Reconstruction. arXiv preprint arXiv:2209.12208.
 - **Zhang, W.**, Sun, X., Li, Y., Liu, H., He, N., Liu, F., & Zheng, Y. (2022). A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 
 - Liu, H., **Zhang, W.**, Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., & Zheng, Y. (2022). Decoupled Mixup for Out-of-Distribution Visual Recognition. European Conference on Computer Vision Workshop (ECCVW).
+- Liu, F., Zeng, W., **Zhang, W.**, Wang, L., Cheng, J., & Lai, Z. (2022). Multi-layered Minutiae Extraction based on Fusion-Attention for OCT Fingerprints. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
+- Liu, F., Liu, G., **Zhang, W.**, Wang, L., & Shen, L. (2022). A Novel High-Resolution Fingerprint Representation Method. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
+- Liu, F., Liu, H., **Zhang, W.**, Liu, G., & Shen, L. (2021). One-class fingerprint presentation attack detection using auto-encoder network. IEEE Transactions on Image Processing.
 
 # 🎖 Honors and Awards
 
