@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am studying for my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I am an intern at Jarvis Lab, Tencent. My major research interests include Unsupervised Learning, Anomaly Detection and Pattern Recognition. My resume can be found [here](./WentianZhang_CV.pdf)
+I am studying for my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I am an intern at Jarvis Lab, Tencent. My major research interests include Unsupervised Learning, Anomaly Detection and Pattern Recognition. My resume can be found [here](./WentianZhang_CV.pdf).
 
 
 # 🔥 News
