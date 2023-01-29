@@ -79,27 +79,32 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 - *2022* China National Scholarship (**Rate<0.02%**)
 - *2021* Excellent Academic Scholarship, First Class
 - *2020* Excellent Academic Scholarship, First Class 
-- *2018* National University Big Data Application Innovation Competition in Northwest, First Place
+- *2018* National University Big Data Application Innovation Competition, First Place
 
 # 📖 Research Experience
 
 ### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Xu Sun](https://scholar.google.com/citations?user=c1PjjLMAAAAJ) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ) 
   
-- Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks.
-- Participate to NICO Challenge (**ECCV'2022 Workshop**), our team reach to 5th/40 in both tracks at Phase I, and 4th in Track 2 at Final Phase. 
 - Proposed a weight decay strategy to progressively mute the skip connections of U-Net for anomaly detection task, which is accepted by **MICCAI'2022**.
+- Participate to NICO Challenge (**ECCV'2022 Workshop**), our team reach to 5th/40 in both tracks at Phase I, and 4th in Track 2 at Final Phase. 
+- Proposed a robust adversarial learning method by shrinking feature space in the training phase.
 
-### The Chinese University of Hong Kong, Shenzhen
+### Norwegian Biometrics Laboratory (NTNU)
+Collaborating with [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ)
+
+- Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV’2022**.
+
+### Shenzhen Institute of Artificial Intelligence and Robotics for Society (CUHK)
 Visiting student supervised by  [Prof. David Zhang](https://scholar.google.com/citations?&user=IOagLnEAAAAJ)
 
-- Designed a method to extract the arc length of the palm, which can effectively locate the ROI of principle lines. 
+- Participated to collect a multi-modal biometric dataset, which contains face, fingerprint and palmprint samples from 10k subjects.
 - Proposed to apply a 3D convolution network to extract palmprint features which can be further encoded for recognition.
 
-
-### Computer Vision Insitute (SZU)
+### Computer Vision Insitute (Shenzhen University)
 M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ)
 
-- Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV'2022**.
-- Collected a famous presentation attack dataset based on OCT and **for the first time** established a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**
+- Proposed a uniform representation learning method for OCT-based Fingerprint anti-spoofing and Recognition.
+- Proposed a minutiae extraction model with fusion-attention mechanism for multi-layered OCT fingerprints.
+- Proposed to establish a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**.
 
