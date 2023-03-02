@@ -20,6 +20,8 @@ redirect_from:
 I am studying for my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I am an intern at Jarvis Lab, Tencent. My major research interests include Self-supervised Learning, Anomaly Detection and Graph Embedding. 
 
 # 🔥 News
+- *2023.02*: &nbsp;🎉 Our paper (AdaptiveMix: Robust Feature Representation via Shrinking Feature Space.) is accepted by **CVPR’2023**!
+- - *2023.02*: &nbsp;🎉 Our paper (NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation.) is accepted by **CVPR’2023**!
 - *2022.09*: &nbsp; I am awarded the China National Scholarship.
 - *2022.08*: &nbsp;🎉 Our paper (Decoupled Mixup for Out-of-Distribution Visual Recognition) is invited as a regular paper in the **ECCV'2022 Workshop**!
 - *2022.08*: &nbsp; Our method (Decoupled Mixup) reaches to the 4th/40 in [Out-of-Distribution Visual Recognition ECCV'2022 NICO Challenge.](https://nicochallenge.com/)！
@@ -27,6 +29,17 @@ I am studying for my master's degree at the Computer Vision Institute, Shenzhen 
 - *2022.06*: &nbsp;🎉 Our paper (A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images) is accepted by **MICCAI’2022**!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/adaptivemix.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[AdaptiveMix: Robust Feature Representation via Shrinking Feature Space.]() 
+
+Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Bing Li, Haoqian Wu, Nanjun He, Yawen Huang, Yuexiang Li, Bernard Ghanem, Yefeng Zheng(**&#8224; Equal Contribution**)
+ 
+- Training GANs is difficult since the training distribution is dynamic for the discriminator, leading to unstable image representation. We address the problem of training GANs from a novel perspective, i.e., robust image classification. We propose a simple yet effective module, namely AdaptivelyMix, for GANs, which shrinks the regions of training data in the image representation space of the discriminator. 
+[**Code**](https://github.com/WentianZhang-ML/AdaptiveMix) 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCVW 2022</div><img src='images/decouple.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,10 +78,12 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 
 ### Selected Publication List
 
+- Liu, H.\*, **Zhang, W.**\*, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B., & Zheng, Y. (2023). AdaptiveMix: Robust Feature Representation via Shrinking Feature Space. Computer Vision and Pattern Recognition (CVPR). (* Equal Contribution)
+- Wu, H., Chen, K., Liu, H., Zhuge, M., Li, B., Qiao, R., Shu, X., Gan, B., Xu, L., Ren, B., Xu, M., **Zhang, W.**, Ramachandra, R., Lin, C., & Ghanem, B. (2023) NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation. Computer Vision and Pattern Recognition (CVPR).
 - **Zhang, W.**, Liu, H., Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. European Conference on Computer Vision (ECCV). 
 - **Zhang, W.**, Liu, H., Liu, F., & Ramachandra, R. (2022). A Uniform Representation Learning Method for OCT-based Fingerprint Presentation Attack Detection and Reconstruction. arXiv preprint arXiv:2209.12208.
 - **Zhang, W.**, Sun, X., Li, Y., Liu, H., He, N., Liu, F., & Zheng, Y. (2022). A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 
-- Liu, H., **Zhang, W.**, Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., & Zheng, Y. (2022). Decoupled Mixup for Out-of-Distribution Visual Recognition. European Conference on Computer Vision Workshop (ECCVW).
+- Liu, H.\*, **Zhang, W.**\*, Xie J.\*, Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., & Zheng, Y. (2022). Decoupled Mixup for Out-of-Distribution Visual Recognition. European Conference on Computer Vision Workshop (ECCVW). (* Equal Contribution)
 - Liu, F., Zeng, W., **Zhang, W.**, Wang, L., Cheng, J., & Lai, Z. (2022). Multi-layered Minutiae Extraction based on Fusion-Attention for OCT Fingerprints. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
 - Liu, F., Liu, G., **Zhang, W.**, Wang, L., & Shen, L. (2022). A Novel High-Resolution Fingerprint Representation Method. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
 - Liu, F., Liu, H., **Zhang, W.**, Liu, G., & Shen, L. (2021). One-class fingerprint presentation attack detection using auto-encoder network. IEEE Transactions on Image Processing.
@@ -82,12 +97,17 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 
 # 📖 Research Experience
 
+### AI Initiative (KAUST) 
+Visiting student supervised by [Dr. Bing Li](https://scholar.google.com/citations?user=xBiftlUAAAAJ). Closely cooperate with [Haozhe Liu](https://scholar.google.com/citations?user=QX51P54AAAAJ)
+
+- Proposed a robust adversarial learning method by shrinking feature space in the training phase, which is accepted by **CVPR’2023**.
+- Participated to establish a novel dataset for hierarchical temporal segmentation, which is accepted by **CVPR’2023**.
+ 
 ### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Xu Sun](https://scholar.google.com/citations?user=c1PjjLMAAAAJ) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ) 
   
 - Proposed a weight decay strategy to progressively mute the skip connections of U-Net for anomaly detection task, which is accepted by **MICCAI'2022**.
 - Participate to NICO Challenge (**ECCV'2022 Workshop**), our team reach to 5th/40 in both tracks at Phase I, and 4th in Track 2 at Final Phase. 
-- Proposed a robust adversarial learning method by shrinking feature space in the training phase.
 
 ### Norwegian Biometrics Laboratory (NTNU)
 Collaborating with [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ)
