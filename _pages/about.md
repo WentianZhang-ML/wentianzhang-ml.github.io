@@ -21,7 +21,7 @@ I am studying for my master's degree at the Computer Vision Institute, Shenzhen 
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉 Our paper (AdaptiveMix: Robust Feature Representation via Shrinking Feature Space.) is accepted by **CVPR’2023**!
-- - *2023.02*: &nbsp;🎉 Our paper (NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation.) is accepted by **CVPR’2023**!
+- *2023.02*: &nbsp;🎉 Our paper (NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation.) is accepted by **CVPR’2023**!
 - *2022.09*: &nbsp; I am awarded the China National Scholarship.
 - *2022.08*: &nbsp;🎉 Our paper (Decoupled Mixup for Out-of-Distribution Visual Recognition) is invited as a regular paper in the **ECCV'2022 Workshop**!
 - *2022.08*: &nbsp; Our method (Decoupled Mixup) reaches to the 4th/40 in [Out-of-Distribution Visual Recognition ECCV'2022 NICO Challenge.](https://nicochallenge.com/)！
