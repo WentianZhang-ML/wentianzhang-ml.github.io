@@ -57,7 +57,7 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 
 [Effective Presentation Attack Detection Driven by Face Related Task](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_24)
   
-**Wentian Zhang**&#8224;, Haozhe Liu&#8224;, Feng Liu, Raghavendra Ramachandra, Christoph Busch (**&#8224; Equal Contribution**)
+**Wentian Zhang**;, Haozhe Liu;, Feng Liu, Raghavendra Ramachandra, Christoph Busch
   
 - Unlike face PAD task, other face related tasks trained by huge amount of real faces (e.g. face recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to trade position of PAD and face related work in a face system and apply the free acquired prior knowledge from face related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. 
 [**Code**](https://github.com/WentianZhang-ML/FRT-PAD)
@@ -69,7 +69,7 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 
 [A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_63)
 
-**Wentian Zhang**&#8224;, Xu Sun&#8224;, Yuexiang Li&#8224;, Haozhe Liu, Nanjun He, Feng Liu, Yefeng Zheng  (**&#8224; Equal Contribution**)
+**Wentian Zhang**;, Xu Sun;, Yuexiang Li;, Haozhe Liu, Nanjun He, Feng Liu, Yefeng Zheng
   
 - We propose a weight decay training strategy to progressively mute the skip connections of U-Net, which effectively adapts U-shape network to anomaly detection task. Furthermore, we formulate histograms of oriented gradients (HOG) prediction to encourage the framework to deeply exploit contextual information from fundus images. 
 [**Code**](https://github.com/WentianZhang-ML/WDMT-Net)
