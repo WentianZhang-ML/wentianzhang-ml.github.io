@@ -91,6 +91,9 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 
 ### Selected Publication List
 
+Haozhe Liu, Bing Li, Jinheng Xie, Yawen Huang, Yuexiang Li, Yefeng Zheng, Bernard Ghanem
+
+- **Zhang, W.**,Liu, H., Li, B., Xie, J., Huang, Y., Li, Y., Zheng, Y., & Ghanem, B. (2023). Dynamically Masked Discriminator for GANs. Conference on Neural Information Processing Systems (NeurIPS).
 - Liu, H.\*, **Zhang, W.**\*, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B., & Zheng, Y. (2023). AdaptiveMix: Robust Feature Representation via Shrinking Feature Space. Computer Vision and Pattern Recognition (CVPR). (* Equal Contribution)
 - Wu, H., Chen, K., Liu, H., Zhuge, M., Li, B., Qiao, R., Shu, X., Gan, B., Xu, L., Ren, B., Xu, M., **Zhang, W.**, Ramachandra, R., Lin, C., & Ghanem, B. (2023) NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation. Computer Vision and Pattern Recognition (CVPR).
 - **Zhang, W.**, Liu, H., Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. European Conference on Computer Vision (ECCV). 
