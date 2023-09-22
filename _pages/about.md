@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am studying for my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I am an intern at Jarvis Lab, Tencent. My major research interests include Self-supervised Learning, Anomaly Detection and Graph Embedding. 
+I have got my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I was an intern at Jarvis Lab, Tencent. My major research interests include Self-supervised Learning, Anomaly Detection, and Generative Models. 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉 Our paper (Dynamically Masked Discriminator for GANs) is accepted by **NeurIPS’2023**!
+- *2023.07*: &nbsp;🎉 Our paper (BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion) is accepted by **ICCV’2023**!
 - *2023.02*: &nbsp;🎉 Our paper (AdaptiveMix: Robust Feature Representation via Shrinking Feature Space.) is accepted by **CVPR’2023**!
 - *2023.02*: &nbsp;🎉 Our paper (NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation.) is accepted by **CVPR’2023**!
 - *2022.09*: &nbsp; I am awarded the China National Scholarship.
@@ -30,9 +32,20 @@ I am studying for my master's degree at the Computer Vision Institute, Shenzhen 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/dmd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Dynamically Masked Discriminator for GANs.](https://arxiv.org/pdf/2306.07716.pdf) 
+
+**Wentian Zhang**, Haozhe Liu, Bing Li, Jinheng Xie, Yawen Huang, Yuexiang Li, Yefeng Zheng, Bernard Ghanem
+
+- In the GAN training, We observe that the discriminator model, trained on historically generated data, often slows down its adaptation to the changes in the new arrival generated data, which accordingly decreases the quality of generated results. We propose a new discriminator, which automatically detects its retardation and then dynamically masks its features, such that the discriminator can adaptively learn the temporally-vary distribution of generated data.
+[**Code**](https://github.com/WentianZhang-ML/DyMD) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/adaptivemix.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[AdaptiveMix: Robust Feature Representation via Shrinking Feature Space.]() 
+[AdaptiveMix: Robust Feature Representation via Shrinking Feature Space.](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_AdaptiveMix_Improving_GAN_Training_via_Feature_Space_Shrinkage_CVPR_2023_paper.pdf) 
 
 Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Bing Li, Haoqian Wu, Nanjun He, Yawen Huang, Yuexiang Li, Bernard Ghanem, Yefeng Zheng(**&#8224; Equal Contribution**)
  
@@ -100,8 +113,9 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 ### AI Initiative (KAUST) 
 Visiting student supervised by [Dr. Bing Li](https://scholar.google.com/citations?user=xBiftlUAAAAJ). Closely cooperate with [Haozhe Liu](https://scholar.google.com/citations?user=QX51P54AAAAJ)
 
+- Proposed a dynamically masked discriminator for generative adversarial networks, which is accepted by **NeurIPS’2023**.
 - Proposed a robust adversarial learning method by shrinking feature space in the training phase, which is accepted by **CVPR’2023**.
-- Participated to establish a novel dataset for hierarchical temporal segmentation, which is accepted by **CVPR’2023**.
+- Participated in establishing a novel dataset for hierarchical temporal segmentation, which is accepted by **CVPR’2023**.
  
 ### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Xu Sun](https://scholar.google.com/citations?user=c1PjjLMAAAAJ) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ) 
@@ -117,13 +131,13 @@ Collaborating with [Prof. Raghavendra Ramachandra](https://scholar.google.com/ci
 ### Shenzhen Institute of Artificial Intelligence and Robotics for Society (CUHK)
 Visiting student supervised by  [Prof. David Zhang](https://scholar.google.com/citations?&user=IOagLnEAAAAJ)
 
-- Participated to collect a multi-modal biometric dataset, which contains face, fingerprint and palmprint samples from 10k subjects.
+- Participated in collecting a multi-modal biometric dataset, which contains face, fingerprint and palmprint samples from 10k subjects.
 - Proposed to apply a 3D convolution network to extract palmprint features which can be further encoded for recognition.
 
 ### Computer Vision Institute (Shenzhen University)
 M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ)
 
 - Proposed a uniform representation learning method for OCT-based Fingerprint anti-spoofing and Recognition.
-- Proposed a minutiae extraction model with fusion-attention mechanism for multi-layered OCT fingerprints.
-- Proposed to establish a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**.
+- Proposed a minutiae extraction model with a fusion-attention mechanism for multi-layered OCT fingerprints.
+- Proposed to establish a one-class framework for OCT-based PAD. This work is accepted by **IEEE TIP**.
 
