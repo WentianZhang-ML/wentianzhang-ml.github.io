@@ -138,7 +138,7 @@ Visiting student supervised by  [Prof. David Zhang](https://scholar.google.com/c
 ### Computer Vision Institute (Shenzhen University)
 M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ)
 
-- Proposed a uniform representation learning method for OCT-based Fingerprint anti-spoofing and Recognition.
+- Proposed a uniform representation learning method for OCT-based Fingerprint anti-spoofing and Recognition, which is accepted by **Pattern Recognition**.
 - Proposed a minutiae extraction model with a fusion-attention mechanism for multi-layered OCT fingerprints.
 - Proposed to establish a one-class framework for OCT-based PAD. This work is accepted by **IEEE TIP**.
 
