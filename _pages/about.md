@@ -95,11 +95,9 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 - Liu, H.\*, **Zhang, W.**\*, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B., & Zheng, Y. (2023). AdaptiveMix: Robust Feature Representation via Shrinking Feature Space. Computer Vision and Pattern Recognition (CVPR). (* Equal Contribution)
 - Wu, H., Chen, K., Liu, H., Zhuge, M., Li, B., Qiao, R., Shu, X., Gan, B., Xu, L., Ren, B., Xu, M., **Zhang, W.**, Ramachandra, R., Lin, C., & Ghanem, B. (2023) NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation. Computer Vision and Pattern Recognition (CVPR).
 - **Zhang, W.**, Liu, H., Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. European Conference on Computer Vision (ECCV). 
-- **Zhang, W.**, Liu, H., Liu, F., & Ramachandra, R. (2022). A Uniform Representation Learning Method for OCT-based Fingerprint Presentation Attack Detection and Reconstruction. arXiv preprint arXiv:2209.12208.
+- **Zhang, W.**, Liu, H., Liu, F., & Ramachandra, R. (2023). A Uniform Representation Learning Method for OCT-based Fingerprint Presentation Attack Detection and Reconstruction. Pattern Recognition.
 - **Zhang, W.**, Sun, X., Li, Y., Liu, H., He, N., Liu, F., & Zheng, Y. (2022). A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 
 - Liu, H.\*, **Zhang, W.**\*, Xie J.\*, Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., & Zheng, Y. (2022). Decoupled Mixup for Out-of-Distribution Visual Recognition. European Conference on Computer Vision Workshop (ECCVW). (* Equal Contribution)
-- Liu, F., Zeng, W., **Zhang, W.**, Wang, L., Cheng, J., & Lai, Z. (2022). Multi-layered Minutiae Extraction based on Fusion-Attention for OCT Fingerprints. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
-- Liu, F., Liu, G., **Zhang, W.**, Wang, L., & Shen, L. (2022). A Novel High-Resolution Fingerprint Representation Method. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
 - Liu, F., Liu, H., **Zhang, W.**, Liu, G., & Shen, L. (2021). One-class fingerprint presentation attack detection using auto-encoder network. IEEE Transactions on Image Processing.
 
 # 🎖 Honors and Awards
