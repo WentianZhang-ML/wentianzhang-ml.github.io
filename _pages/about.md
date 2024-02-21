@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I have got my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I was an intern at Jarvis Lab, Tencent. My major research interests include Self-supervised Learning, Anomaly Detection, and Generative Models. 
+I have got my master's degree at the Computer Vision Institute, Shenzhen University, under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ). Besides, I was an intern at Jarvis Lab, Tencent. My major research interests include image & video generation and system security. 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉 I am invited as a reviewer for ECCV'2024!
+- *2023.11*: &nbsp;🎉 I am invited as a reviewer for CVPR'2024!
 - *2023.09*: &nbsp;🎉 Our paper (Dynamically Masked Discriminator for GANs) is accepted by **NeurIPS’2023**!
 - *2023.07*: &nbsp;🎉 Our paper (BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion) is accepted by **ICCV’2023**!
 - *2023.02*: &nbsp;🎉 Our paper (AdaptiveMix: Robust Feature Representation via Shrinking Feature Space.) is accepted by **CVPR’2023**!
@@ -91,14 +93,16 @@ Haozhe Liu&#8224;, **Wentian Zhang**&#8224;, Jinheng Xie&#8224;, Haoqian Wu, Bin
 
 ### Selected Publication List
 
-- **Zhang, W.**,Liu, H., Li, B., Xie, J., Huang, Y., Li, Y., Zheng, Y., & Ghanem, B. (2023). Dynamically Masked Discriminator for GANs. Advances in Neural Information Processing Systems (NeurIPS).
-- Liu, H.\*, **Zhang, W.**\*, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B., & Zheng, Y. (2023). AdaptiveMix: Robust Feature Representation via Shrinking Feature Space. Computer Vision and Pattern Recognition (CVPR). (* Equal Contribution)
-- Wu, H., Chen, K., Liu, H., Zhuge, M., Li, B., Qiao, R., Shu, X., Gan, B., Xu, L., Ren, B., Xu, M., **Zhang, W.**, Ramachandra, R., Lin, C., & Ghanem, B. (2023) NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation. Computer Vision and Pattern Recognition (CVPR).
-- **Zhang, W.**, Liu, H., Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. European Conference on Computer Vision (ECCV). 
-- **Zhang, W.**, Liu, H., Liu, F., & Ramachandra, R. (2023). A Uniform Representation Learning Method for OCT-based Fingerprint Presentation Attack Detection and Reconstruction. Pattern Recognition.
-- **Zhang, W.**, Sun, X., Li, Y., Liu, H., He, N., Liu, F., & Zheng, Y. (2022). A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 
-- Liu, H.\*, **Zhang, W.**\*, Xie J.\*, Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., & Zheng, Y. (2022). Decoupled Mixup for Out-of-Distribution Visual Recognition. European Conference on Computer Vision Workshop (ECCVW). (* Equal Contribution)
-- Liu, F., Liu, H., **Zhang, W.**, Liu, G., & Shen, L. (2021). One-class fingerprint presentation attack detection using auto-encoder network. IEEE Transactions on Image Processing.
+- **Zhang, W.**,Liu, H., Li, B., Xie, J., Huang, Y., Li, Y., Zheng, Y., & Ghanem, B. (2023). Dynamically Masked Discriminator for GANs. (NeurIPS'2023).
+- **Zhang, W.**, Liu, H., Liu, F., Ramachandra, R., & Busch, C. (2022). Effective Presentation Attack Detection Driven by Face Related Task. (ECCV'2022). 
+- **Zhang, W.**, Sun, X., Li, Y., Liu, H., He, N., Liu, F., & Zheng, Y. (2022). A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images. (MICCAI'2022).
+- Liu, H.\*, **Zhang, W.**\*, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B., & Zheng, Y. (2023). AdaptiveMix: Robust Feature Representation via Shrinking Feature Space. (CVPR'2023). (* Equal Contribution)
+- Kong, Z.\*, **Zhang, W.**\*, Liu, F., Luo, W., Liu, H., Shen, L., Raghavendra, R. (2023). Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing. IEEE
+T-NNLS (* Equal Contribution)
+- Liu, H.\*, **Zhang, W.**\*, Xie J.\*, Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., & Zheng, Y. (2022). Decoupled Mixup for Out-of-Distribution Visual Recognition. (ECCVW'2022). (* Equal Contribution)
+- Wu, H., Chen, K., Liu, H., Zhuge, M., Li, B., Qiao, R., Shu, X., Gan, B., Xu, L., Ren, B., Xu, M., **Zhang, W.**, Ramachandra, R., Lin, C., & Ghanem, B. (2023) NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation. (CVPR'2023).
+- Xie, J., Li, Y., Huang, Y., Liu, H., **Zhang, W.**, Zheng, Y., & Shou, M. Z. (2023). BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion. (ICCV’2023).
+
 
 # 🎖 Honors and Awards
 
