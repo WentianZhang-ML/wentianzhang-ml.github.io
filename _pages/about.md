@@ -116,6 +116,7 @@ T-NNLS (* Equal Contribution)
 ### AI Initiative (KAUST) 
 Visiting student supervised by [Dr. Bing Li](https://scholar.google.com/citations?user=xBiftlUAAAAJ). Closely cooperate with [Haozhe Liu](https://scholar.google.com/citations?user=QX51P54AAAAJ)
 
+- Proposed an ownership protection method for generative models (diffusion models and GAN models).
 - Proposed a dynamically masked discriminator for generative adversarial networks, which is accepted by **NeurIPS’2023**.
 - Proposed a robust adversarial learning method by shrinking feature space in the training phase, which is accepted by **CVPR’2023**.
 - Participated in establishing a novel dataset for hierarchical temporal segmentation, which is accepted by **CVPR’2023**.
